@@ -1,0 +1,69 @@
+header {
+    background-color: #e2cbda;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+header h1 {
+    color: #d5599d;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+header img { 
+    width: 70px; 
+}
+
+.primeira {
+    background-color: #f1e4ed;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.primeira p {
+    font-weight: bold;
+}
+
+.segunda {
+    padding: 70px;
+    background-color: #d4b2c8;
+    text-align: center;
+}
+
+.terceira {
+    padding: 250px;
+    background-image: url(Imagens/pexels-kei-scampa-1201427-9882300.jpg);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+}
+
+.terceira button {
+    width: 150px;
+    padding: 10px;
+    color: #d5599d;
+    background-color: #d4b2c8;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #e2cbda;
+    padding: 30px;
+    color: #d5599d;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+footer i {
+    font-size: 40px;
+}
