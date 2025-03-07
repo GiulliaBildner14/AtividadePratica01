@@ -40,6 +40,7 @@ header img {
 .terceira {
     padding: 250px;
     background-image: url(Imagens/pexels-kei-scampa-1201427-9882300.jpg);
+    background-attachment: fixed;
     background-size: cover;
     background-position: center center;
     display: flex;
